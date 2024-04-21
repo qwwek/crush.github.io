@@ -13,7 +13,7 @@ $(document).ready(function () {
        desc: "expressing feelings is a pretty serious thing, a lot will be sacrificed including the end result of releasing things that have been stored for a long time is quite a relief and not an easy thing. Here I just want to express my feelings for you, the problem is accepted or not it depends on you, I also won't expect more really."
     }, {
         title: "",
-        desc: "If you  uncomfortable just say, "I have a crush on you", if you already have a boyfriend, sorry... maybe that's all from me, hehe thanks for reading.feel"
+        desc: "If you're uncomfortable just say, \"I have a crush on you\", if you already have a boyfriend, sorry... maybe that's all from me, hehe thanks for reading."
     }, {
         title: "I Have Crush On You!!",
         desc: "I will wait for your reply :)"
